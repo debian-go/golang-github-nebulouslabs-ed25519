@@ -1,0 +1,5 @@
+golang-github-nebulouslabs-ed25519 (0.0~git20150728.0.0e573b1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #842575)
+
+ -- Free Ekanayaka <freee@debian.org>  Sun, 30 Oct 2016 13:33:06 +0000
